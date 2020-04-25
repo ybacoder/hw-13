@@ -1,9 +1,11 @@
 # Tableau Homework
 
 <div align="center">
-    <img width="460" height="300" src="01_User_Type_Analysis.jpg">
+    <img src="01_User_Type_Analysis.jpg">
 </div>
+
 ![01_User_Type_Analysis](01_User_Type_Analysis.jpg)
+
 The majority of the users are male. Subscribers use the bikes substantially more than customers. A large number of people canceled their subscription, possibly because of stay-at-home orders. Customers use the bikes throughout the day and mostly in the afternoon. Subscribers use their bikes mostly in the morning (i.e., commuting to work) and evening (i.e., commuting home).
 
 

@@ -6,9 +6,11 @@
 
 * The data selected for analysis was from 1Q 2020. The .csv data files (January, February, and March) were joined by union in Tableau.
 
-## Key Findings
+## Results
 
 * Access the [Tableau Viz here](https://public.tableau.com/profile/yacub.bholat#!/vizhome/hw-13-Citi-Bike-Analytics/Citi-Bike-Analytics)!
+
+## Key Findings
 
 ### User Types and Activity
 
